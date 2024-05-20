@@ -1,0 +1,1 @@
+# Enhancing Semantic Cognition Models with LSTM-Based Question Answering: An Extension of Parallel Distributed Processing
